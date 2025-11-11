@@ -21,11 +21,6 @@ Une application Android moderne utilisant Retrofit pour consommer des services R
 - **RecyclerView** : Liste optimisée
 - **ConstraintLayout** : Mise en page flexible
 
-## 📺 Démonstration
-
-![Démonstration de l'application](public/t.mp4)
-
-*Vidéo démonstrative montrant toutes les fonctionnalités de l'application*
 
 ## 🎯 Architecture
 
@@ -44,3 +39,8 @@ L'application suit les meilleures pratiques Android avec une architecture claire
 4. Lancez l'application sur un appareil ou émulateur Android
 
 Application Android moderne pour la gestion des comptes bancaires via API REST.
+## Démonstration
+
+
+https://github.com/user-attachments/assets/80cc0e93-bd7d-43be-9b9c-bfab34e10900
+
